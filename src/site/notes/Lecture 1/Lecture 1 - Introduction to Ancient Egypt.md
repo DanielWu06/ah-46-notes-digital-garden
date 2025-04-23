@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture-1/lecture-1-introduction-to-ancient-egypt/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/lecture-1/lecture-1-introduction-to-ancient-egypt/"}
 ---
 
 # A Basic Chronology
