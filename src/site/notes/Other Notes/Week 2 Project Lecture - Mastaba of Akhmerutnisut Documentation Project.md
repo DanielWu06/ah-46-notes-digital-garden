@@ -1,0 +1,62 @@
+---
+{"dg-publish":true,"permalink":"/other-notes/week-2-project-lecture-mastaba-of-akhmerutnisut-documentation-project/"}
+---
+
+
+# Background
+- Location and time
+	- Tomb in the Giza plateau
+	- Private tombs
+		- Non-royals, but likely high status
+		- Cemetery with many smaller tombs
+	- [[Lecture 1/Lecture 1 - Introduction to Ancient Egypt#^25a30e\|Old Kingdom time period]]
+		- 5th dynasty
+- What is a mastaba?
+	- A type of tomb, very common in Old Kingdom
+	- Giza tombs in the cemetery of the mastaba style
+	- Structure
+		- Partially above ground
+			- Place for offerings and visitors
+		- Underground sections
+			- Hidden away
+			- Burial chambers/tombs
+- Who was Akhmerutnisut?
+	- Royal acquaintance of some sort, high importance
+	- Assistant overseer of palace attendants
+	- Overseer of authorizations of the royal domain of the palace
+	- We know some details about his family thanks to carvings in the area
+- Discovery of the mastaba
+	- George Reisner
+		- Excavator for Harvard at the time
+		- Led an expedition to Giza
+	- Henry Clay Frick
+		- Wealthy industrialist
+		- Bought part of the mastaba (decorative wall), which is still in Boston
+- Macrohistories vs microhistories
+	- At the time, the importance was placed on macrohistories
+		- How the tombs fit together and form a cohesive picture
+		- Formation of the cemetery and its life
+		- Wanted to study Giza plateau as a whole
+	- Nowadays, more focus on microhistories
+		- Specific details of each tomb
+		- Life and personal information about Akhmerutnisut
+
+# MAD-P
+- Goals
+	- Conduct a thorough visual documentation
+	- Draw up a new topographic plan
+	- Assess stability and state of conservation
+- Excavation process
+	- Dig up areas covered by sand
+	- Note what trash/things are in there
+- Documentation process
+	- Architecture
+	- Structural preservation
+	- Decorations and art within the tomb
+- Documentation methods
+	- Photography
+	- Epigraphy
+		- Copying inscriptions
+		- By hand, strict scale
+	- Photogrammetry and 3D visualization
+	- Mapping
