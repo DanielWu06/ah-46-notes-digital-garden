@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture-3/lecture-3-predynastic-lower-egypt/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/lecture-3/lecture-3-predynastic-lower-egypt/"}
 ---
 
 # Lower Egyptian Predynastic

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture-3/lecture-3-naqada-iii/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/lecture-3/lecture-3-naqada-iii/"}
 ---
 
 # Naqada III

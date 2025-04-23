@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture-2/lecture-2-geography-and-interactions/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/lecture-2/lecture-2-geography-and-interactions/"}
 ---
 
 # The Importance of the Nile

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture-4/lecture-4-early-dynastic/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/lecture-4/lecture-4-early-dynastic/"}
 ---
 
 # Overview of Early Dynastic

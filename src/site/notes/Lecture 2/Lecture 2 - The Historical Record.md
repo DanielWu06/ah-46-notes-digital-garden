@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture-2/lecture-2-the-historical-record/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/lecture-2/lecture-2-the-historical-record/"}
 ---
 
 # Writing types

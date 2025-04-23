@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture-4/lecture-4-funerary-enclosures/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/lecture-4/lecture-4-funerary-enclosures/"}
 ---
 
 # Funerary Enclosures

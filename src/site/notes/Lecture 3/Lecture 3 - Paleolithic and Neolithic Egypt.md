@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture-3/lecture-3-paleolithic-and-neolithic-egypt/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/lecture-3/lecture-3-paleolithic-and-neolithic-egypt/"}
 ---
 
 # Prehistoric Egypt

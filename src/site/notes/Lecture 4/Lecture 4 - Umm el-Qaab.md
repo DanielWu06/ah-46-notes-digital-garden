@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture-4/lecture-4-umm-el-qaab/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/lecture-4/lecture-4-umm-el-qaab/"}
 ---
 
 # Umm el-Qaab

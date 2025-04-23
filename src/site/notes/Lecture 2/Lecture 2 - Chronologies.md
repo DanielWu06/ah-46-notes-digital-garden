@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lecture-2/lecture-2-chronologies/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/lecture-2/lecture-2-chronologies/"}
 ---
 
 # Dating
