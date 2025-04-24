@@ -31,10 +31,11 @@
 
 # Abydos in Late Naqada III - Early Dynasty 2
 ![abydosbigmap1.png|294x168](/img/user/Images/abydosbigmap1.png)
-- [[Lecture 4/Lecture 4 - Umm el-Qaab\|Umm el-Qaab]]
+## [[Lecture 4/Lecture 4 - Umm el-Qaab\|Umm el-Qaab]]
 ![abydosbigmap2.png|570x326](/img/user/Images/abydosbigmap2.png)
-- [[Lecture 4/Lecture 4 - Funerary Enclosures\|"Funerary Enclosures"]]
+## [[Lecture 4/Lecture 4 - Funerary Enclosures\|"Funerary Enclosures"]]
 
 # Dynasty 2
-![saqqarabigmap.png|332x492](/img/user/Images/saqqarabigmap.png)
-- [[Lecture 4/Lecture 4 - Saqqara\|Saqqara]]
+![saqqarabigmap.png|209x310](/img/user/Images/saqqarabigmap.png)
+## [[Lecture 4/Lecture 4 - Saqqara\|Saqqara]]
+## [[Lecture 4/Lecture 4 - Divine Temples\|Divine Temples]]

@@ -28,7 +28,7 @@
 - Social stratification
 	- Evidenced by grave goods, burial sites, etc
 	- Consequence of agricultural society + specialization
-## Narmer Palette
+## Narmer Palette #SlideID
 { #3e4231}
 
 
@@ -39,3 +39,7 @@
 - Dead people floating around
 - Officials carrying standards (likely representing gods)
 - Shows a story of conquest
+- Not necessarily fully accurate, created to showcase Narmer's power
+- Background
+	- Made from greywacke sandstone
+	- Dynasty 1

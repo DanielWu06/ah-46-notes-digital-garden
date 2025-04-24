@@ -34,7 +34,7 @@
 - Similar to methods Greeks used later
 - Come from cemeteries
 
-# Naqada Culture (see dedicated pages)
-- [[Lecture 3/Lecture 3 - Naqada I\|Naqada I]]
-- [[Lecture 3/Lecture 3 - Naqada II\|Naqada II]]
-- [[Lecture 3/Lecture 3 - Naqada III\|Naqada III]]
+# Naqada Culture
+## [[Lecture 3/Lecture 3 - Naqada I\|Naqada I]]
+## [[Lecture 3/Lecture 3 - Naqada II\|Naqada II]]
+## [[Lecture 3/Lecture 3 - Naqada III\|Naqada III]]

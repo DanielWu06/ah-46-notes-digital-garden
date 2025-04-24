@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lecture-4/lecture-4-umm-el-qaab/"}
 ---
 
-# Umm el-Qaab
+	# Umm el-Qaab
 - Umm el-Qaab
 	- Means "mother of pots"
 	- Has a lot of pots, obviously
@@ -57,6 +57,8 @@
 ![dengoodslabel.png|530x300](/img/user/Images/dengoodslabel.png)
 - King figure running around
 	- Maybe shows us a part of the Heb sed festival
+{ #43ea09}
+
 	- Cultural unification
 - Shows royal scribe
 	- Indicates specialization

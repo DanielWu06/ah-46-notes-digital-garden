@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/other-notes/week-2-project-lecture-mastaba-of-akhmerutnisut-documentation-project/"}
 ---
 
-
 # Background
 - Location and time
 	- Tomb in the Giza plateau
