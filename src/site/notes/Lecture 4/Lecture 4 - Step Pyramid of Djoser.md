@@ -7,6 +7,9 @@
 ![spdjoser.png|398x233](/img/user/Images/spdjoser.png)
 - Located in Saqqara
 - The first royal tomb created in stone
+- Dynasty 3
+- Made out of stone
+- One of the earliest pyramids
 
 ## Architecture
 ![djoserpyramidarch.png|409x261](/img/user/Images/djoserpyramidarch.png)
@@ -29,6 +32,8 @@
 ### South Court
 ![fcomplexhebsed.png|511x355](/img/user/Images/fcomplexhebsed.png)
 - Heb-sed festival/celebration thing
+{ #ce7d6b}
+
 	- Showed that the king was fit enough to run the kingdom
 	- Obstacle-course style thing
 - Similar things
@@ -48,6 +53,9 @@
 		- Monuments shift from being about one specific guy to the idea of the king
 
 ## Serdab
+{ #36fa9c}
+
+
 ![serdab.png|619x246](/img/user/Images/serdab.png)
 - Where the king's statue was enclosed
 - Holes for the king's statue to look out

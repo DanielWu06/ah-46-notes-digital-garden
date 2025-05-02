@@ -68,6 +68,13 @@
 - Indicates potential functionality of palette, despite elaborate nature
 - Made out of stone
 - Still represents human dominance over nature
+- Hunting and violent imagery
+- Art and styles
+	- Still jumbled, no registers
+	- However, moves towards later Egyptian conventions
+- Lions being killed
+	- Later, lions represent king
+	- Shows that this is before that symbolism became connected
 ### Battlefield Palette
 ![battlefieldpalette.png|328x203](/img/user/Images/battlefieldpalette.png)
 - Seems to show an animal dominating a human

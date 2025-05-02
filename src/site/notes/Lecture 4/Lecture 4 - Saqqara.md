@@ -28,12 +28,17 @@
 	- Importance
 		- Likely resolved the conflict
 		- Believed to have united Egypt (again?)
-## Records of the Khasekhemwy Conflict
+## Records of the Khasekhemwy Conflict #SlideID
 ![khas2-2.png|555x318](/img/user/Images/khas2-2.png)
 - Showcases how he won the conflict
 - Number shows ~200,000 killed
 	- Definitely an exaggeration
 	- Points to the political purpose of the statue
+- Background
+	- Statue of Khasekhemwy (left)
+	- Made Limestone
+	- Second Dynasty
+	- Hierakonpolis
 
 ## Elite Tombs
 ![saqqaraelite1.png|0x0](/img/user/Images/saqqaraelite1.png)

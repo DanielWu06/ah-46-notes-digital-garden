@@ -43,6 +43,8 @@
 ## Menkaure Statues #SlideID
 ![menkaurestatues.png|431x398](/img/user/Images/menkaurestatues.png)
 - Considered masterpieces of ancient Egyptian art
+	- Menkaure triad (left)
+	- Menkaure and his wife (right)
 - Striding figures
 	- Indication of status
 - Symbols of kingship

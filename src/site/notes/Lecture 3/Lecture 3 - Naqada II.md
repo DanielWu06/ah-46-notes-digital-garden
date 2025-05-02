@@ -62,6 +62,10 @@
 ![tomb100.png](/img/user/Images/tomb100.png)
 - Painted on a tomb wall in Hierakonpolis
 	- Tomb space no longer present
+- Major themes
+	- Boats
+	- Scenes of violence
+	- Dominance over animals guy
 ### Scenes
 ![scenesofdominationviolence.png|410x233](/img/user/Images/scenesofdominationviolence.png)
 ![ritualscene.png|407x170](/img/user/Images/ritualscene.png)
@@ -93,7 +97,7 @@
 - Suggests the development of regional power
 	- Proto-state status of Hierakonpolis
 	- Development of social stratification
-### Tomb 16 #SlideID
+### HK 6 Cemetery #SlideID
 ![hk6map.png|455x238](/img/user/Images/hk6map.png)
 - Very large complex
 - Many men, women, and children buried around

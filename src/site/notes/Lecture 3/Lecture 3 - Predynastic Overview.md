@@ -40,6 +40,8 @@
 - Officials carrying standards (likely representing gods)
 - Shows a story of conquest
 - Not necessarily fully accurate, created to showcase Narmer's power
+	- More accurate to say that this is his claim to have united upper and lower Egypt
 - Background
 	- Made from greywacke sandstone
 	- Dynasty 1
+	- Hierakonpolis

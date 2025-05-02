@@ -20,7 +20,7 @@
 - Often shaped like animals
 - Used to grind makeup
 ## Figurines (N1) #SlideID
-![meidumpyramid.png|299x248](/img/user/Images/meidumpyramid.png)
+![ivoryfigure.png|484x401](/img/user/Images/ivoryfigure.png)
 - Probably associated with fertility
 - Found in tombs: maybe associated with death or rebirth?
 	- Suggests developed funerary beliefs

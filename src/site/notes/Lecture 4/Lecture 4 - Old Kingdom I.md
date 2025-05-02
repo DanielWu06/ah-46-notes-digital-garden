@@ -14,8 +14,12 @@
 - Considered "golden age" of Egyptian society
 	- Later art seems to emulate Old Kingdom
 	- Later records also emphasize the Old Kingdom as a high point in history
+- [[Lecture 1/Lecture 1 - Introduction to Ancient Egypt#^7d0239\|One of first kingdoms on the timeline]]
 
 ## Khafre and Horus Statue #SlideID
+{ #fa0fb4}
+
+
 ![khafrestatue.png|555x326](/img/user/Images/khafrestatue.png)
 - Signs of kingship in the statue
 	- False beard
@@ -45,6 +49,10 @@
 ### Constructed King Timeline
 ![dynastylist.png|447x258](/img/user/Images/dynastylist.png)
 - Dynasty 4 is very well known, pyramid builders
+- Dynasty 5 Kings
+	- Lots of or -re names
+	- Dedication to sun god Ra
+	- Divine temples become much more prominent
 
 ### Distribution of Royal Pyramids
 ![pyramiddist.png|480x305](/img/user/Images/pyramiddist.png)
@@ -54,3 +62,4 @@
 ## [[Lecture 4/Lecture 4 - Pyramids of Snefru\|Dynasty 4: Pyramids of Snefru]]
 ## [[Lecture 4/Lecture 4 - Giza Complex\|Dynasty 4: Giza Complex]]
 ## [[Lecture 4/Lecture 4 - Pyramid of Unas\|Dynasty 5: Pyramid of Unas]]
+## [[Lecture 4/Lecture 4 - Dynasty 6\|Dynasty 6: Pyramid of Pepi II and Statue of Pepi I]]
