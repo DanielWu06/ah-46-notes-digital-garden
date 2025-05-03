@@ -11,7 +11,7 @@
 	- Tombs
 
 ## Mask of the Merimde Culture
-![|300](/img/user/Images/image 1.png)
+![merimdemask.png|193x267](/img/user/Images/merimdemask.png)
 - Clay mask (probably) of a human face
 - One of the earliest human representations from Egypt
 - c. 4800-4300 BCE
@@ -40,7 +40,7 @@
 	- Begins our [[Lecture 1/Lecture 1 - Introduction to Ancient Egypt#^9ab30d\|dynastic chronology]]
 
 ## Paleolithic and Neolithic Map
-![|300](/img/user/Images/image-1 1.png)
+![neopaleomap.png|186x329](/img/user/Images/neopaleomap.png)
 # Paleolithic Period
 - Lower Paleolithic
 	- Acheulean complex: symmetrical tools worked on both sides

@@ -23,4 +23,4 @@
 		- Spindle whorls
 		- Copper ingots
 ## Maadi Artifacts
-![image-2 1.png|392x303](/img/user/Images/image-2%201.png)
+![palettesn1.png|392x303](/img/user/Images/palettesn1.png)

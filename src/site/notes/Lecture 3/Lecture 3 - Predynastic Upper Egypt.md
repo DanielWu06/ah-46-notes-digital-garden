@@ -12,7 +12,7 @@
 	- Rise of statehood and common identities
 	- Common worldviews and traditions
 ## Upper Egyptian Artifacts
-![image 1.png|341x261](/img/user/Images/image%201.png)
+![pots.png|341x261](/img/user/Images/pots.png)
 - Encompasses both Badarian and Naqada pottery
 # Badarian culture
 - Basically the only Upper Egyptian Predynastic period to occur before Lower Egyptian periods
@@ -29,7 +29,7 @@
 		- Suggests social stratification
 
 ## Badarian Artifacts
-![image-1 1.png|386x280](/img/user/Images/image-1%201.png)
+![badarian.png|386x280](/img/user/Images/badarian.png)
 - Black top, red bottom = distinctively Badarian
 - Similar to methods Greeks used later
 - Come from cemeteries

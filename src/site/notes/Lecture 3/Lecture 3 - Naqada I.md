@@ -12,7 +12,7 @@
 	- Rise of the states
 - Characterized by white cross-lined ware (white on red)
 ## Palettes (N1)
-![image-3 1.png|294x174](/img/user/Images/image-3%201.png)
+![palettesagain.png|294x174](/img/user/Images/palettesagain.png)
 - New type of grave good
 	- Likely symbolic
 	- Maybe religious/faith based importance?
