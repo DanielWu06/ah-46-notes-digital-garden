@@ -2,108 +2,86 @@
 {"dg-publish":true,"permalink":"/flashcard/flashcards/"}
 ---
 
----
-dg-publish: true
-dg-home: true
----
-
-## Flashcard Review
-
-This is a dynamic flashcard set pulled from all lecture notes.
-
+```html
 <div id="flashcard-container" class="flashcard-wrapper"></div>
 
 <script>
-
-async function fetchAllMarkdownNotes() {
-  const lectureFolders = ['Lecture 1', 'Lecture 2'];
-  const baseUrl = 'https://ah-46-notes-digital-garden.vercel.app';
-
-  let noteUrls = [];
-
-  for (let folder of lectureFolders) {
-    const folderUrl = `${baseUrl}/${encodeURIComponent(folder)}/`;
-    try {
-      const res = await fetch(folderUrl);
-      const html = await res.text();
-
-      // Match .md page URLs
-      const regex = /href="(\/[^"]*Lecture\s\d\s-\s[^"]+)"/g;
-      let match;
-      while ((match = regex.exec(html)) !== null) {
-        noteUrls.push(baseUrl + match[1]);
-      }
-    } catch (err) {
-      console.error("Error loading folder", folder, err);
-    }
-  }
+(async function () {
+  const lectureFolders = ['Lecture 1', 'Lecture 2','Lecture 3', 'Lecture 4', 'Lecture 5']; 
+  const githubUser = 'DanielWu06'; 
+  const repo = 'ah-46-notes-digital-garden';
+  const branch = 'main';
 
   let allText = '';
-  for (let url of noteUrls) {
+
+  for (let folder of lectureFolders) {
+    const apiUrl = `https://api.github.com/repos/${githubUser}/${repo}/contents/${encodeURIComponent(folder)}`;
+
     try {
-      const res = await fetch(url);
-      const text = await res.text();
-      allText += '\n\n' + text;
+      const res = await fetch(apiUrl);
+      const files = await res.json();
+
+      for (let file of files) {
+        if (file.name.endsWith('.md')) {
+          const rawUrl = `https://raw.githubusercontent.com/${githubUser}/${repo}/${branch}/${encodeURIComponent(folder)}/${encodeURIComponent(file.name)}`;
+          const contentRes = await fetch(rawUrl);
+          const markdown = await contentRes.text();
+          allText += '\n\n' + markdown;
+        }
+      }
     } catch (err) {
-      console.error("Could not fetch note:", url, err);
+      console.error("Error loading folder:", folder, err);
     }
   }
 
-  return allText;
-}
-
-function parseFlashcards(text) {
-  const regex = /<span class="hide-in-garden">\*\*Front:\*\*<\/span>\s*!\[\[(.*?)\]\]\s*\n\?\s*\n<span class="hide-in-garden">\*\*Back:\*\*<\/span>\s*([\s\S]*?)(?=\n{2,}|$)/g;
-  let match;
-  let cards = [];
-
-  while ((match = regex.exec(text)) !== null) {
-    cards.push({
-      img: match[1],
-      back: match[2].trim()
-    });
-  }
-
-  return cards;
-}
-
-function displayFlashcards(cards) {
-  const container = document.getElementById('flashcard-container');
-  if (!container) return;
-
-  // Shuffle cards
-  for (let i = cards.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [cards[i], cards[j]] = [cards[j], cards[i]];
-  }
-
-  for (let card of cards) {
-    const cardElem = document.createElement('div');
-    cardElem.className = 'flashcard';
-
-    const front = document.createElement('div');
-    front.className = 'front';
-    front.innerHTML = `<img src="/${card.img}" alt="Flashcard Image" />`;
-
-    const back = document.createElement('div');
-    back.className = 'back';
-    back.innerHTML = `<p>${card.back.replace(/\n/g, "<br>")}</p>`;
-
-    cardElem.appendChild(front);
-    cardElem.appendChild(back);
-    container.appendChild(cardElem);
-
-    // Flip on click
-    cardElem.addEventListener('click', () => {
-      cardElem.classList.toggle('flipped');
-    });
-  }
-}
-
-(async function () {
-  const allText = await fetchAllMarkdownNotes();
   const cards = parseFlashcards(allText);
   displayFlashcards(cards);
+
+  function parseFlashcards(text) {
+    const regex = /<span class="hide-in-garden">\*\*Front:\*\*<\/span>\s*!\[\[(.*?)\]\]\s*\n\?\s*\n<span class="hide-in-garden">\*\*Back:\*\*<\/span>\s*([\s\S]*?)(?=\n{2,}|$)/g;
+    let match;
+    let cards = [];
+
+    while ((match = regex.exec(text)) !== null) {
+      cards.push({
+        img: match[1],
+        back: match[2].trim()
+      });
+    }
+
+    return cards;
+  }
+
+  function displayFlashcards(cards) {
+    const container = document.getElementById('flashcard-container');
+    if (!container) return;
+
+    for (let i = cards.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [cards[i], cards[j]] = [cards[j], cards[i]];
+    }
+
+    for (let card of cards) {
+      const cardElem = document.createElement('div');
+      cardElem.className = 'flashcard';
+
+      const front = document.createElement('div');
+      front.className = 'front';
+      front.innerHTML = `<img src="/${card.img}" alt="Flashcard Image" />`;
+
+      const back = document.createElement('div');
+      back.className = 'back';
+      back.innerHTML = `<p>${card.back.replace(/\n/g, "<br>")}</p>`;
+
+      cardElem.appendChild(front);
+      cardElem.appendChild(back);
+      container.appendChild(cardElem);
+
+      cardElem.addEventListener('click', () => {
+        cardElem.classList.toggle('flipped');
+      });
+    }
+  }
 })();
 </script>
 
@@ -118,6 +96,8 @@ function displayFlashcards(cards) {
 .flashcard {
   perspective: 1000px;
   cursor: pointer;
+  position: relative;
+  height: 250px;
 }
 
 .flashcard .front, .flashcard .back {
@@ -129,23 +109,21 @@ function displayFlashcards(cards) {
   border-radius: 10px;
   background: var(--background-primary);
   box-shadow: var(--shadow-s);
-  min-height: 200px;
   display: flex;
   align-items: center;
   justify-content: center;
   text-align: center;
+  position: absolute;
+  width: 100%;
+  height: 100%;
 }
 
 .flashcard .front {
-  position: relative;
   z-index: 2;
 }
 
 .flashcard .back {
   transform: rotateY(180deg);
-  position: absolute;
-  top: 0;
-  left: 0;
 }
 
 .flashcard.flipped .front {
@@ -157,3 +135,4 @@ function displayFlashcards(cards) {
   transform: rotateY(0);
 }
 </style>
+```
