@@ -12,10 +12,10 @@
 
 ## Statue and Offering Table #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![mastabamererukastatue.png|247x329](/img/user/Images/mastabamererukastatue.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![mastabamererukastatue.png|slideid25|247x329](/img/user/Images/mastabamererukastatue.png)
+
+
 - Statue and offering table
 	- Area to give offerings
 	- Place to interact with the dead

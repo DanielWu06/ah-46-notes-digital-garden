@@ -12,10 +12,10 @@
 { #93b7bf}
 
 
-<span class="hide-in-garden">**Front:**</span>
-![khasekhemwyenclosure.png|542x320](/img/user/Images/khasekhemwyenclosure.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![khasekhemwyenclosure.png|slideid14|542x320](/img/user/Images/khasekhemwyenclosure.png)
+
+
 - One of the few remaining: it is assumed that the others were deliberately destroyed
 	- Narmer's funerary enclosure was the first, but it was destroyed
 - Cultic buildings inside

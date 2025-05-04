@@ -8,14 +8,18 @@
 
 ## Interior Carvings #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![pyramidtexts.png|372x227](/img/user/Images/pyramidtexts.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![pyramidtexts.png|slideid`8|372x227](/img/user/Images/pyramidtexts.png)
+
+
 - Emergence of pyramid texts
-- Inside walls shift from undecorated to fully written on
+	- Inside walls shift from undecorated to fully written on
+	- Originated in Dynasty 5
 - Texts were to ensure the kings' survival in the afterlife
 	- Not made for understanding, but for ritual
 	- They be weird as shit sometimes
-- Found in Saqqara
-- Originated in Dynasty 5
+- Background
+	- Unas' burial chamber
+	- Carvings and paint on limestone walls
+	- Dynasty 5
+	- Found in Saqqara

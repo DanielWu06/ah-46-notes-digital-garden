@@ -10,10 +10,10 @@
 
 ## Wall Paintings #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![mastabatiwallpaintingmain.png|208x252](/img/user/Images/mastabatiwallpaintingmain.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![mastabatiwallpaintingmain.png|slideid26|208x252](/img/user/Images/mastabatiwallpaintingmain.png)
+
+
 - Tomb owner/family members are very large
 	- Showcases power
 	- Common in elite tombs
@@ -34,10 +34,10 @@
 
 ## False Door #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![mastabatifalsedoor.png|201x275](/img/user/Images/mastabatifalsedoor.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![mastabatifalsedoor.png|slideid27|201x275](/img/user/Images/mastabatifalsedoor.png)
+
+
 - Door carved directly into rock
 	- Could not open (duh)
 - Place where Ba was supposed to move between body and tomb

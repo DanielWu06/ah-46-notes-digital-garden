@@ -37,10 +37,10 @@
 
 ## Nebhepetre's Mortuary Temple #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![nebmortuary.png|458x295](/img/user/Images/nebmortuary.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![nebmortuary.png|slideid22|458x295](/img/user/Images/nebmortuary.png)
+
+
 - Definitely not a pyramid
 	- Follows more of the regional saff style
 - Opening court area
@@ -61,10 +61,10 @@
 
 ## Smiting at the Chapel #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![nebsmite.png|398x354](/img/user/Images/nebsmite.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![nebsmite.png|slideid23|398x354](/img/user/Images/nebsmite.png)
+
+
 - List of people he plans to smite
 - People with feathers = foreigners
 - Some Egyptians being smited

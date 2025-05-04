@@ -63,10 +63,10 @@
 ![privatecemeterydistribution.png|451x283](/img/user/Images/privatecemeterydistribution.png)
 ## Mastabas #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![mastabadiagram.png|280x217](/img/user/Images/mastabadiagram.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![mastabadiagram.png|slideid28|280x217](/img/user/Images/mastabadiagram.png)
+
+
 - Primary tomb form of Old Kingdom elites
 - Built from stone
 - Often associated with royal tombs in Dynasty 4
@@ -108,10 +108,10 @@
 
 ## Statues of Rahotep and Nofret #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![rahotepnofret.png|271x365](/img/user/Images/rahotepnofret.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![rahotepnofret.png|slideid29|271x365](/img/user/Images/rahotepnofret.png)
+
+
 - Hand gesture/pose
 	- Uncertain meaning
 	- Common in Old Kingdom

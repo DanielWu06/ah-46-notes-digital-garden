@@ -12,10 +12,10 @@
 
 ## Stela of Djet #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![stelaofdjet.png|216x321](/img/user/Images/stelaofdjet.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![stelaofdjet.png|slideid12|216x321](/img/user/Images/stelaofdjet.png)
+
+
 - An example of a [[Lecture 3/Lecture 3 - Naqada III#^aee20f\|serekh]]
 	- Associated with kings
 	- Depicts king Djet (the snake thing is his name)
@@ -24,12 +24,12 @@
 	- Dynasty 1 artifact
 	- Found in Abydos
 
-## Other Stele Examples #SlideID
+## Other Stele Examples (Mostly Djet) #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![othersteleexample.png|499x285](/img/user/Images/othersteleexample.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![othersteleexample.png|slideid13|499x285](/img/user/Images/othersteleexample.png)
+
+
 - Stela of Merneith
 	- Mother of the king
 	- Likely functioned as a regent, child was too young

@@ -19,10 +19,10 @@
 ## Khafre and Horus Statue #SlideID{ #fa0fb4}
 
 
-<span class="hide-in-garden">**Front:**</span>
-![khafrestatue.png|555x326](/img/user/Images/khafrestatue.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![khafrestatue.png|slideid17|555x326](/img/user/Images/khafrestatue.png)
+
+
 - Signs of kingship in the statue
 	- False beard
 	- Depiction with a god

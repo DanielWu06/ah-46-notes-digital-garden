@@ -21,23 +21,24 @@
 - Used to grind makeup
 ## Figurines (N1) #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![ivoryfigure.png|484x401](/img/user/Images/ivoryfigure.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![ivoryfigure.png|slideid1|484x401](/img/user/Images/ivoryfigure.png)
+
+
 - Probably associated with fertility
 - Found in tombs: maybe associated with death or rebirth?
 	- Suggests developed funerary beliefs
 - 3rd one eyes made of lapis lazuli
 	- Only source of these stones from Afghanistan
 	- Suggests trade, intercultural interactions
+- Background
+	- Ivory figurine
+	- Naqada I
 
 ## Pottery (N1) #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![wclw1.png|166x202](/img/user/Images/wclw1.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![wclw1.png|slideid2|166x202](/img/user/Images/wclw1.png)
 - White cross-lined ware
 	- Only from Naqada I, very distinctive
 	- Common for the time, and there exists a lot
@@ -46,13 +47,15 @@
 	- Theme of human control highly present in this period
 { #1ddd9c}
 
+- Background
+	- White cross-lined ware pottery
+	- Naqada 1
+	- Usually found in tombs
 
 ## More Pottery (N1) #SlideID
+![naqadaIpotteryextra.png|slideid4|163x160](/img/user/Images/naqadaIpotteryextra.png)
 
-<span class="hide-in-garden">**Front:**</span>
-![naqadaIpotteryextra.png|163x160](/img/user/Images/naqadaIpotteryextra.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
 - Similar designs as before
 - We see nature motifs again
 	- This time, not so much in regards to human control

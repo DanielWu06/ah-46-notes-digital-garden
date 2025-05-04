@@ -30,10 +30,10 @@
 		- Believed to have united Egypt (again?)
 ## Records of the Khasekhemwy Conflict #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![khas2-2.png|555x318](/img/user/Images/khas2-2.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![khas2-2.png|slideid19|555x318](/img/user/Images/khas2-2.png)
+
+
 - Showcases how he won the conflict
 - Number shows ~200,000 killed
 	- Definitely an exaggeration

@@ -5,10 +5,10 @@
 
 # Great Pyramids of Giza #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![greatpyramidsgiza.png|464x255](/img/user/Images/greatpyramidsgiza.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![greatpyramidsgiza.png|slideid15|464x255](/img/user/Images/greatpyramidsgiza.png)
+
+
 - Connected temples
 	- Causeway to valley temples
 	- Valley temples likely for river access
@@ -47,10 +47,10 @@
 
 ## Menkaure Statues #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![menkaurestatues.png|431x398](/img/user/Images/menkaurestatues.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![menkaurestatues.png|slideid16|431x398](/img/user/Images/menkaurestatues.png)
+
+
 - Considered masterpieces of ancient Egyptian art
 	- Menkaure triad (left)
 	- Menkaure and his wife (right)

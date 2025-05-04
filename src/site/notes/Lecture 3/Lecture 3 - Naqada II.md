@@ -8,10 +8,10 @@
 
 ## Palettes (N2) #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![naqadaIIpalette.png|462x191](/img/user/Images/naqadaIIpalette.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![naqadaIIpalette.png|slideid3|462x191](/img/user/Images/naqadaIIpalette.png)
+
+
 - Palettes become more complex
 - Continue to have nature themes
 	- Animals of different varieties
@@ -31,10 +31,10 @@
 - Less elaborate
 ## Pottery (N2) #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![naqada2pottery.png|400x248](/img/user/Images/naqada2pottery.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![naqada2pottery.png|slideid5|400x248](/img/user/Images/naqada2pottery.png)
+
+
 - Decorated ware
 - Different motifs from Naqada I pottery
 	- No longer a focus on humans controlling nature
@@ -46,13 +46,17 @@
 	- Still a lot of nature (boats and water, etc)
 	- Interaction, less domination
 		- Nile river?
+- Background
+	- Decorated ware pottery
+	- Naqada II
+	- Found in tombs
 
 ## More Pottery (N2) #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![naqada2potteryextra.png|246x276](/img/user/Images/naqada2potteryextra.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![naqada2potteryextra.png|slideid6|246x276](/img/user/Images/naqada2potteryextra.png)
+
+
 - In this one, we see similar motifs to [[Lecture 3/Lecture 3 - Predynastic Upper Egypt#^97cf37\|Naqada II figurines]]
 - Purposes
 	- Maybe religious or spiritual
@@ -74,16 +78,20 @@
 { #ade58b}
 
 
-<span class="hide-in-garden">**Front:**</span>
-![tomb100.png](/img/user/Images/tomb100.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![tomb100.png|slideid7](/img/user/Images/tomb100.png)
+
+
 - Painted on a tomb wall in Hierakonpolis
 	- Tomb space no longer present
 - Major themes
 	- Boats
 	- Scenes of violence
 	- Dominance over animals guy
+- Background
+	- Paint on mudbrick wall
+	- Naqada II
+	- Hierakonpolis
 
 ### Scenes
 ![scenesofdominationviolence.png|410x233](/img/user/Images/scenesofdominationviolence.png)
@@ -118,10 +126,10 @@
 	- Development of social stratification
 ### HK 6 Cemetery #SlideID
 
-<span class="hide-in-garden">**Front:**</span>
-![hk6map.png|455x238](/img/user/Images/hk6map.png)
-?
-<span class="hide-in-garden">**Back:**</span>
+
+![hk6map.png|slideid8|455x238](/img/user/Images/hk6map.png)
+
+
 - Very large complex
 - Many men, women, and children buried around
 	- Children were very young, suggests sacrifice of some sort?
