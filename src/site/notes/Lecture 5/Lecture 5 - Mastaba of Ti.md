@@ -9,13 +9,21 @@
 - Located in Saqqara
 
 ## Wall Paintings #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![mastabatiwallpaintingmain.png|208x252](/img/user/Images/mastabatiwallpaintingmain.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Tomb owner/family members are very large
 	- Showcases power
 	- Common in elite tombs
 - Often depicts the tomb owner overseeing work
 - Tied to offerings and support of the dead
 	- Even if the living stopped bringing offerings, the paintings were supposed to provide sustenance
+- Background
+	- Dynasty 5
+	- Saqqara
+	- Mastaba of Ti
 
 ### Elite Activities
 ![mastabatiwallpaintingactivities.png|208x286](/img/user/Images/mastabatiwallpaintingactivities.png)
@@ -25,11 +33,19 @@
 - Very common in elite tombs
 
 ## False Door #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![mastabatifalsedoor.png|201x275](/img/user/Images/mastabatifalsedoor.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Door carved directly into rock
 	- Could not open (duh)
 - Place where Ba was supposed to move between body and tomb
 - Offering table for offerings
+- Background
+	- Dynasty 5
+	- Saqqara
+	- Mastaba of Ti
 
 ## [[Lecture 4/Lecture 4 - Step Pyramid of Djoser#^36fa9c\|Serdab]]
 ![mastabatiserdab.png|410x232](/img/user/Images/mastabatiserdab.png)

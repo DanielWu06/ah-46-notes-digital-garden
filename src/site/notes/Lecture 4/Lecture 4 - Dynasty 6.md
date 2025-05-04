@@ -11,7 +11,11 @@
 	- Reduced power of kings
 
 # Statue of Pepi I #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![pepistatue.png|233x346](/img/user/Images/pepistatue.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Kneeling king
 	- Suggest subservience to gods
 	- Shift of perspective from things like [[Lecture 4/Lecture 4 - Old Kingdom I#^fa0fb4\|the statue of Khafre]]

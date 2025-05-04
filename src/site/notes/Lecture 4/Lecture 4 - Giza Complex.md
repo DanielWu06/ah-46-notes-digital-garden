@@ -4,14 +4,19 @@
 
 
 # Great Pyramids of Giza #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![greatpyramidsgiza.png|464x255](/img/user/Images/greatpyramidsgiza.png)
-![gizacomplextopdown.png|396x394](/img/user/Images/gizacomplextopdown.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Connected temples
 	- Causeway to valley temples
 	- Valley temples likely for river access
 - Royal tombs
 	- Top left corner
 	- Probably smaller tombs for officials
+
+![gizacomplextopdown.png|396x394](/img/user/Images/gizacomplextopdown.png)
 
 # Sphinx
 ![sphinx.png|364x198](/img/user/Images/sphinx.png)
@@ -41,7 +46,11 @@
 ![motherkhufuburial.png|487x271](/img/user/Images/motherkhufuburial.png)
 
 ## Menkaure Statues #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![menkaurestatues.png|431x398](/img/user/Images/menkaurestatues.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Considered masterpieces of ancient Egyptian art
 	- Menkaure triad (left)
 	- Menkaure and his wife (right)

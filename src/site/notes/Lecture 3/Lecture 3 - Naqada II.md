@@ -7,11 +7,16 @@
 - Figurative (shaped) palettes
 
 ## Palettes (N2) #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![naqadaIIpalette.png|462x191](/img/user/Images/naqadaIIpalette.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Palettes become more complex
 - Continue to have nature themes
 	- Animals of different varieties
 	- More designs
+
 ## Figurines (N2){ #97cf37}
 
 
@@ -25,7 +30,11 @@
 		- Maybe religious
 - Less elaborate
 ## Pottery (N2) #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![naqada2pottery.png|400x248](/img/user/Images/naqada2pottery.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Decorated ware
 - Different motifs from Naqada I pottery
 	- No longer a focus on humans controlling nature
@@ -36,13 +45,19 @@
 - More ambiguous meaning
 	- Still a lot of nature (boats and water, etc)
 	- Interaction, less domination
-		- Nile
+		- Nile river?
+
 ## More Pottery (N2) #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![naqada2potteryextra.png|246x276](/img/user/Images/naqada2potteryextra.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - In this one, we see similar motifs to [[Lecture 3/Lecture 3 - Predynastic Upper Egypt#^97cf37\|Naqada II figurines]]
 - Purposes
 	- Maybe religious or spiritual
 	- We find these in graves a lot, but again cannot deduce their purpose
+
 ## Textiles (N2)
 ![gebeleintextile.png|507x259](/img/user/Images/gebeleintextile.png)
 - Found in Gebelein
@@ -59,13 +74,17 @@
 { #ade58b}
 
 
+<span class="hide-in-garden">**Front:**</span>
 ![tomb100.png](/img/user/Images/tomb100.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Painted on a tomb wall in Hierakonpolis
 	- Tomb space no longer present
 - Major themes
 	- Boats
 	- Scenes of violence
 	- Dominance over animals guy
+
 ### Scenes
 ![scenesofdominationviolence.png|410x233](/img/user/Images/scenesofdominationviolence.png)
 ![ritualscene.png|407x170](/img/user/Images/ritualscene.png)
@@ -98,7 +117,11 @@
 	- Proto-state status of Hierakonpolis
 	- Development of social stratification
 ### HK 6 Cemetery #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![hk6map.png|455x238](/img/user/Images/hk6map.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Very large complex
 - Many men, women, and children buried around
 	- Children were very young, suggests sacrifice of some sort?
@@ -108,6 +131,7 @@
 	- Wild and domesticated animals
 	- Demonstrate ability to collect resources
 	- Again indicates status/wealth, since they had a lot of exotic animals
+
 ![hk6mask.png|308x241](/img/user/Images/hk6mask.png)
 - Masks found in tomb of important person
 	- Indicates use in funerary context

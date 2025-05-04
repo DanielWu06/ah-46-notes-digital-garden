@@ -7,7 +7,11 @@
 - Much smaller than previous pyramids
 
 ## Interior Carvings #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![pyramidtexts.png|372x227](/img/user/Images/pyramidtexts.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Emergence of pyramid texts
 - Inside walls shift from undecorated to fully written on
 - Texts were to ensure the kings' survival in the afterlife

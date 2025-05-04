@@ -20,7 +20,11 @@
 - Often shaped like animals
 - Used to grind makeup
 ## Figurines (N1) #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![ivoryfigure.png|484x401](/img/user/Images/ivoryfigure.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Probably associated with fertility
 - Found in tombs: maybe associated with death or rebirth?
 	- Suggests developed funerary beliefs
@@ -29,7 +33,11 @@
 	- Suggests trade, intercultural interactions
 
 ## Pottery (N1) #SlideID
-![naqada1potterycomb.png|357x220](/img/user/Images/naqada1potterycomb.png)
+
+<span class="hide-in-garden">**Front:**</span>
+![wclw1.png|166x202](/img/user/Images/wclw1.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - White cross-lined ware
 	- Only from Naqada I, very distinctive
 	- Common for the time, and there exists a lot
@@ -38,8 +46,13 @@
 	- Theme of human control highly present in this period
 { #1ddd9c}
 
+
 ## More Pottery (N1) #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![naqadaIpotteryextra.png|163x160](/img/user/Images/naqadaIpotteryextra.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Similar designs as before
 - We see nature motifs again
 	- This time, not so much in regards to human control

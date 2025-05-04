@@ -11,10 +11,18 @@
 	- Mereruka's tomb is the green area
 
 ## Statue and Offering Table #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![mastabamererukastatue.png|247x329](/img/user/Images/mastabamererukastatue.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Statue and offering table
 	- Area to give offerings
 	- Place to interact with the dead
+- Background
+	- Dynasty 6
+	- Saqqara
+	- Mastaba of Mereruka
 
 ## Wall Paintings
 ![mastabamerrerukapainting.png|506x189](/img/user/Images/mastabamerrerukapainting.png)

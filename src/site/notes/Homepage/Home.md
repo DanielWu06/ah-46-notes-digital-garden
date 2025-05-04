@@ -21,7 +21,7 @@
 ## [[Lecture 5/Lecture 5 - Old Kingdom II\|Lecture 5 - Old Kingdom II]]
 ## [[Lecture 5/Lecture 5 - First Intermediate Period\|Lecture 5 - First Intermediate Period]]
 # Slide IDs
-## [[Other Notes/Slide IDs\|Slide IDs]]
+## [[Flashcard/Flashcards\|Flashcards]]
 # MISC
 ### [[Other Notes/Week 2 Discussion - Art History Note Taking\|Week 2 Discussion - Art History Note Taking]]
 ### [[Other Notes/Week 2 Discussion - Types of Sources\|Week 2 Discussion - Types of Sources]]

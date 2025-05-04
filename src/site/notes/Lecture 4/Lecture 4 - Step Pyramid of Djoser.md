@@ -4,7 +4,11 @@
 
 
 # The Step Pyramid of Djoser #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![spdjoser.png|398x233](/img/user/Images/spdjoser.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Located in Saqqara
 - The first royal tomb created in stone
 - Dynasty 3

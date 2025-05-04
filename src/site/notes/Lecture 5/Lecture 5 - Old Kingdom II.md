@@ -62,7 +62,11 @@
 # Private Tombs
 ![privatecemeterydistribution.png|451x283](/img/user/Images/privatecemeterydistribution.png)
 ## Mastabas #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![mastabadiagram.png|280x217](/img/user/Images/mastabadiagram.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Primary tomb form of Old Kingdom elites
 - Built from stone
 - Often associated with royal tombs in Dynasty 4
@@ -102,8 +106,12 @@
 - Striding officials shows status
 - Note that if the king was depicted also they would not be striding
 
-## Rahotep and Nofret #SlideID
+## Statues of Rahotep and Nofret #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![rahotepnofret.png|271x365](/img/user/Images/rahotepnofret.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Hand gesture/pose
 	- Uncertain meaning
 	- Common in Old Kingdom

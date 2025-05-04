@@ -64,7 +64,11 @@
 ![dogpalette.png|194x179](/img/user/Images/dogpalette.png)
 - Human dominance over nature
 ### Hunters' Palette #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![hunterpalette.png|481x253](/img/user/Images/hunterpalette.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Indicates potential functionality of palette, despite elaborate nature
 - Made out of stone
 - Still represents human dominance over nature
@@ -75,6 +79,7 @@
 - Lions being killed
 	- Later, lions represent king
 	- Shows that this is before that symbolism became connected
+	
 ### Battlefield Palette
 ![battlefieldpalette.png|328x203](/img/user/Images/battlefieldpalette.png)
 - Seems to show an animal dominating a human

@@ -32,8 +32,10 @@
 { #3e4231}
 
 
+<span class="hide-in-garden">**Front:**</span>
 ![|300](/img/user/Images/Narmer Palette.png)
-
+?
+<span class="hide-in-garden">**Back:**</span>
 - King (large, wearing crown)
 - Decapitated prisoners
 - Dead people floating around

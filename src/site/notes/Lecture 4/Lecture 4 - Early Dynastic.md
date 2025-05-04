@@ -11,7 +11,11 @@
 	- Same trend we will see into the later periods
 
 ## Stela of Djet #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![stelaofdjet.png|216x321](/img/user/Images/stelaofdjet.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - An example of a [[Lecture 3/Lecture 3 - Naqada III#^aee20f\|serekh]]
 	- Associated with kings
 	- Depicts king Djet (the snake thing is his name)
@@ -21,7 +25,11 @@
 	- Found in Abydos
 
 ## Other Stele Examples #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![othersteleexample.png|499x285](/img/user/Images/othersteleexample.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Stela of Merneith
 	- Mother of the king
 	- Likely functioned as a regent, child was too young

@@ -40,7 +40,11 @@
 - Allows us to understand what the kings were doing and how they contributed
 
 ### Map of Umm el-Qaab #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![umelqaabmap.png|568x359](/img/user/Images/umelqaabmap.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Tomb structures
 	- One large tomb surrounded by smaller tombs
 	- Thought to be family members, royal court, etc.

@@ -16,11 +16,13 @@
 	- Later records also emphasize the Old Kingdom as a high point in history
 - [[Lecture 1/Lecture 1 - Introduction to Ancient Egypt#^7d0239\|One of first kingdoms on the timeline]]
 
-## Khafre and Horus Statue #SlideID
-{ #fa0fb4}
+## Khafre and Horus Statue #SlideID{ #fa0fb4}
 
 
+<span class="hide-in-garden">**Front:**</span>
 ![khafrestatue.png|555x326](/img/user/Images/khafrestatue.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Signs of kingship in the statue
 	- False beard
 	- Depiction with a god

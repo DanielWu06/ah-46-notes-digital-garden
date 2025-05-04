@@ -22,7 +22,11 @@
 		- Chaotic periods
 
 ## Stela of Maaty and Dedwi #SlideID
+
+<span class="hide-in-garden">**Front:**</span>
 ![stelamaatydedwi.png|196x273](/img/user/Images/stelamaatydedwi.png)
+?
+<span class="hide-in-garden">**Back:**</span>
 - Follows many Ancient Egyptian art conventions
 	- Very large figure, striding, etc
 	- Deceased in front of offering
