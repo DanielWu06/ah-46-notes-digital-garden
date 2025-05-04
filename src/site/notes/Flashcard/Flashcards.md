@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/flashcard/flashcards/"}
 ---
 
+---
+dg-publish: true
+dg-home: true
+---
+
 ## Flashcard Review
 
 This is a dynamic flashcard set pulled from all lecture notes.
@@ -73,4 +78,82 @@ function displayFlashcards(cards) {
   }
 
   for (let card of cards) {
-    const cardElem = document.create
+    const cardElem = document.createElement('div');
+    cardElem.className = 'flashcard';
+
+    const front = document.createElement('div');
+    front.className = 'front';
+    front.innerHTML = `<img src="/${card.img}" alt="Flashcard Image" />`;
+
+    const back = document.createElement('div');
+    back.className = 'back';
+    back.innerHTML = `<p>${card.back.replace(/\n/g, "<br>")}</p>`;
+
+    cardElem.appendChild(front);
+    cardElem.appendChild(back);
+    container.appendChild(cardElem);
+
+    // Flip on click
+    cardElem.addEventListener('click', () => {
+      cardElem.classList.toggle('flipped');
+    });
+  }
+}
+
+(async function () {
+  const allText = await fetchAllMarkdownNotes();
+  const cards = parseFlashcards(allText);
+  displayFlashcards(cards);
+})();
+</script>
+
+<style>
+.flashcard-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.flashcard {
+  perspective: 1000px;
+  cursor: pointer;
+}
+
+.flashcard .front, .flashcard .back {
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  padding: 1rem;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  background: var(--background-primary);
+  box-shadow: var(--shadow-s);
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.flashcard .front {
+  position: relative;
+  z-index: 2;
+}
+
+.flashcard .back {
+  transform: rotateY(180deg);
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.flashcard.flipped .front {
+  transform: rotateY(180deg);
+}
+
+.flashcard.flipped .back {
+  z-index: 2;
+  transform: rotateY(0);
+}
+</style>
