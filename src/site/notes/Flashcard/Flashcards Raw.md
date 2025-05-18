@@ -331,6 +331,7 @@ END
 START
 Basic
 ![card2.png](/img/user/Images/card2.png)
+Back:
 - Emergence of pyramid texts
 	- Inside walls shift from undecorated to fully written on
 	- Originated in Dynasty 5

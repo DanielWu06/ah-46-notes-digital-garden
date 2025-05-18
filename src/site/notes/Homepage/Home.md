@@ -20,6 +20,10 @@
 # Lecture 5
 ## [[Lecture 5/Lecture 5 - Old Kingdom II\|Lecture 5 - Old Kingdom II]]
 ## [[Lecture 5/Lecture 5 - First Intermediate Period\|Lecture 5 - First Intermediate Period]]
+# Lecture 6
+# Lecture 7
+## [[Lecture 7/Lecture 7 - Middle Kingdom II\|Lecture 7 - Middle Kingdom II]]
+## [[Lecture 7/Lecture 7 - Middle Kingdom III\|Lecture 7 - Middle Kingdom III]]
 # Slide IDs
 ## [[Flashcard/Flashcards Landing\|Flashcards]]
 # MISC

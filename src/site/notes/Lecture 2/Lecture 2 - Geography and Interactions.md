@@ -60,6 +60,8 @@
 	- For example, common trades included resources such as gold or lapis lazuli
 - Conflicts over culture, resources, etc
 - Enemies of Egypt: The Nine bows
+{ #8bfe90}
+
 	- Nine represented infinity
 	- Essentially meant all enemies of Egypt
 - Portrayal

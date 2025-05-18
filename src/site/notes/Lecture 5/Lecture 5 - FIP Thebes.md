@@ -8,6 +8,9 @@
 - Location of the rulers of part of FIP
 
 ## Karnak in the 11th Dynasty
+{ #d0320b}
+
+
 ![karnak.png|455x271](/img/user/Images/karnak.png)
 - At this point, the site is still very small
 - However, this pillar is engraved with an 11th dynasty king name
@@ -15,6 +18,9 @@
 - Continues to grow in power over Egyptian history
 
 ## Regional Tomb Style: Saff Tombs
+{ #936c68}
+
+
 ![safftomb.png|558x312](/img/user/Images/safftomb.png)
 - Tombs were cut into the cliffsides of Thebes
 - Usually had a forecourt, then more carved into the cliff face

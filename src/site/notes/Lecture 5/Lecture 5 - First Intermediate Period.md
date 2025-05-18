@@ -25,8 +25,6 @@
 
 
 ![stelamaatydedwi.png|slideid24|196x273](/img/user/Images/stelamaatydedwi.png)
-
-
 - Follows many Ancient Egyptian art conventions
 	- Very large figure, striding, etc
 	- Deceased in front of offering
@@ -152,6 +150,9 @@
 	- At this point, suggests Nubians settling in Egypt
 	- Follows Egyptian conventions: assimilation?
 ## Wooden Tomb Models
+{ #b1ab19}
+
+
 ![woodentombmodels.png|528x298](/img/user/Images/woodentombmodels.png)
 - Shows an expansion of tomb practices outside of royals
 - Wooden tomb models as a replacement for extravagant wall paintings of OK

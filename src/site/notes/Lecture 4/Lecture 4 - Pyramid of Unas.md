@@ -13,6 +13,8 @@
 
 
 - Emergence of pyramid texts
+{ #80dac4}
+
 	- Inside walls shift from undecorated to fully written on
 	- Originated in Dynasty 5
 - Texts were to ensure the kings' survival in the afterlife
