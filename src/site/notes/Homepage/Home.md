@@ -24,6 +24,9 @@
 # Lecture 7
 ## [[Lecture 7/Lecture 7 - Middle Kingdom II\|Lecture 7 - Middle Kingdom II]]
 ## [[Lecture 7/Lecture 7 - Middle Kingdom III\|Lecture 7 - Middle Kingdom III]]
+# Lecture 8
+## [[Lecture 8/Lecture 8 - Second Intermediate Period\|Lecture 8 - Second Intermediate Period]]
+# [[Lecture 8/Lecture 8 - New Kingdom\|Lecture 8 - New Kingdom]]
 # Slide IDs
 ## [[Flashcard/Flashcards Landing\|Flashcards]]
 # MISC

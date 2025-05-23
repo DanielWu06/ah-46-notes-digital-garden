@@ -4,7 +4,7 @@
 
 
 # Absorption and Assimilation
-![gebeleinstelanubia.png|627x340](/img/user/gebeleinstelanubia.png)
+![gebeleinstelanubia.png|627x340](/img/user/Images/gebeleinstelanubia.png)
 - Shows how Nubians assimilated and lived in Egypt
 	- Similar art styles
 	- Similar manners of dress
@@ -13,7 +13,7 @@
 	- Engaging in Egyptian practices
 
 # Fortresses and Borders
-![lowernubiafort.png|561x358](/img/user/lowernubiafort.png)
+![lowernubiafort.png|561x358](/img/user/Images/lowernubiafort.png)
 - Purposes of fortresses
 	- Economical: facilitated resource extraction
 	- Political control over the area
@@ -24,7 +24,7 @@
 	- Nubians in this period were mostly nomadic during this period
 
 ## The Semna Dispatches
-![semnadispatches.png|480x311](/img/user/semnadispatches.png)
+![semnadispatches.png|480x311](/img/user/Images/semnadispatches.png)
 - Non-royal text
 	- Written to report what is going on
 	- Less likely to have embellishments
@@ -35,10 +35,10 @@
 
 ## Semna Royal Stelae
 ### First Boundary Stela
-![firstboundarystela.png|540x307](/img/user/firstboundarystela.png)
+![firstboundarystela.png|540x307](/img/user/Images/firstboundarystela.png)
 - Basically just says that Nubians can come in and trade
 ### Second Boundary Stela
-![secondboundarystela.png|669x468](/img/user/secondboundarystela.png)
+![secondboundarystela.png|669x468](/img/user/Images/secondboundarystela.png)
 - Significant shift in tone
 - Purpose
 	- Now he is hating on the Nubians
@@ -49,7 +49,7 @@
 	- Power/authority
 
 ## Northern Fortress Architecture #SlideID2
-![buhenfortress.png|562x324](/img/user/buhenfortress.png)
+![buhenfortress.png|562x324](/img/user/Images/buhenfortress.png)
 - Features
 	- Niched walls
 	- Very thick outer walls
@@ -61,7 +61,7 @@
 	- Nubia
 
 ## Southern Fortress Architecture #SlideID2
-![uronarti.png|606x373](/img/user/uronarti.png)
+![uronarti.png|606x373](/img/user/Images/uronarti.png)
 - Architecture
 	- Closer to the second cataract, less even landscape
 	- More freeform design to accommodate the land

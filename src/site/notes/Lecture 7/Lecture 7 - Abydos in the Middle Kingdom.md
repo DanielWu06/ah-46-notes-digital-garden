@@ -13,6 +13,8 @@
 	- Eventually, the two are syncretized (merged)
 		- Osiris effectively becomes the local god
 - Divine processions of Osiris
+{ #ac7cff}
+
 	- States taken out of the shrines and brought around the cliffs/area
 	- Began in Umm el-Qaab, went to tomb of king/Osiris
 	- Believed to be almost performative, or in some sense a performance/festival
@@ -40,6 +42,9 @@
 
 # Non-Royal Life and Death in the Middle Kingdom
 ## Lahun
+{ #1def76}
+
+
 ![nrldmkmapbig.png|533x302](/img/user/Images/nrldmkmapbig.png)
 - Emergence of more tombs and temples in Lahun
 	- Maybe to be closer to a capital area

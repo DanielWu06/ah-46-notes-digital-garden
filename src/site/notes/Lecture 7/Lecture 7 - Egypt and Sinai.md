@@ -4,24 +4,24 @@
 
 
 # Early Dynastic
-![wadiameyra.png|663x362](/img/user/wadiameyra.png)
+![wadiameyra.png|663x362](/img/user/Images/wadiameyra.png)
 - Mostly used for copper
 - Took local resources, smited local people
 ## Wall Carvings
-![smitingsinai1.png|616x341](/img/user/smitingsinai1.png)
+![smitingsinai1.png|616x341](/img/user/Images/smitingsinai1.png)
 - Smiting of Sinian locals
 	- Show power?
 	- Threat to locals
 	- Protection for Egyptians
 
 # Old Kingdom
-![wadimaghara.png|622x344](/img/user/wadimaghara.png)
+![wadimaghara.png|622x344](/img/user/Images/wadimaghara.png)
 ## Wall Carvings
-![smitingsinai2.png|623x379](/img/user/smitingsinai2.png)
+![smitingsinai2.png|623x379](/img/user/Images/smitingsinai2.png)
 - Similar images/themes as Early Dynastic carvings
 
 # Middle Kingdom
-![serabitelkhadim.png|625x361](/img/user/serabitelkhadim.png)
+![serabitelkhadim.png|625x361](/img/user/Images/serabitelkhadim.png)
 - Temple to local goddess Hathor
 - Built over multiple reigns
 	- Maintained and used through the New Kingdom

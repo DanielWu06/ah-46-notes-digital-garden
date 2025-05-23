@@ -26,6 +26,9 @@
 	- Every king had to contribute, it was a sign of their belonging
 
 ## White Chapel of Senworset I at Karnak #SlideID2
+{ #c12293}
+
+
 ![senworsetkarnak.png|510x300](/img/user/Images/senworsetkarnak.png)
 - Used to legitimize kingship
 	- Centralization of power

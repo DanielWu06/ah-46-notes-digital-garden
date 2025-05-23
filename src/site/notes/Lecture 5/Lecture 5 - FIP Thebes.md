@@ -42,6 +42,8 @@
 	- Transition into Middle Kingdom
 
 ## Nebhepetre's Mortuary Temple #SlideID
+{ #bcf2ce}
+
 
 
 ![nebmortuary.png|slideid22|458x295](/img/user/Images/nebmortuary.png)

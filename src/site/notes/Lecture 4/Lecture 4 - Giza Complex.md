@@ -10,6 +10,8 @@
 
 
 - Connected temples
+{ #afb935}
+
 	- Causeway to valley temples
 	- Valley temples likely for river access
 - Royal tombs

@@ -4,7 +4,7 @@
 
 
 # Evolution of Elite Tombs
-![djehutihoteptomb.png|629x346](/img/user/djehutihoteptomb.png)
+![djehutihoteptomb.png|629x346](/img/user/Images/djehutihoteptomb.png)
 - We can clearly see that elite tombs look noticeably different from the mastabas of before
 - Tomb features
 	- Causeways
@@ -15,19 +15,19 @@
 	- More intimate connection with regions/communities
 
 ## Regionalism in Elite Tombs
-![benihasantomb.png|539x310](/img/user/benihasantomb.png)
+![benihasantomb.png|539x310](/img/user/Images/benihasantomb.png)
 - Similar to the [[Lecture 5/Lecture 5 - FIP Thebes#^936c68\|regional saff style]]
 - Showcases the continuance of regionalism and regional styles
 
 ### Beni Hasan Private Tombs
-![benihasanimage.png|306x345](/img/user/benihasanimage.png)
+![benihasanimage.png|306x345](/img/user/Images/benihasanimage.png)
 - "Daily Life"
 	- Shows up in a lot of different tombs
 - Unsure about purpose, probably ritualistic
 - Boats, workers, etc
 
 # Foreign Interaction with Egypt #SlideID2
-![nubainarchers.png|553x393](/img/user/nubainarchers.png)
+![nubainarchers.png|553x393](/img/user/Images/nubainarchers.png)
 - Distinguishing foreigners
 	- Different skin colors
 	- Different clothing
@@ -40,7 +40,7 @@
 	- Middle kingdom tomb
 
 ## Trade and Other Interactions
-![tradeinter.png|495x295](/img/user/tradeinter.png)
+![tradeinter.png|495x295](/img/user/Images/tradeinter.png)
 - Recall also how [[Lecture 2/Lecture 2 - Geography and Interactions#^8bfe90\|foreigners were depicted]]
 
 ## [[Lecture 7/Lecture 7 - Egypt and Sinai\|Relationships with Sinai]]
